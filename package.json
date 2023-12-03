@@ -1,0 +1,28 @@
+{
+  "name": "assigment9",
+  "version": "1.0.0",
+  "description": "assigment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aevintomanish/Assignment9BTP.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "AevinTomAnish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aevintomanish/Assignment9BTP/issues"
+  },
+  "homepage": "https://github.com/aevintomanish/Assignment9BTP#readme",
+  "dependencies": {
+    "app": "^0.1.0",
+    "axios": "^1.6.2",
+    "express": "^4.18.2"
+  }
+}
